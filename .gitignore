@@ -1,0 +1,13 @@
+target/*
+.idea
+*.exe
+*.bin
+*.jar
+*.stackdump
+*.log
+*.obj
+*.iml
+*.class
+out.txt
+
+

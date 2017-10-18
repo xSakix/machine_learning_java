@@ -31,5 +31,10 @@
             <artifactId>colt</artifactId>
             <version>1.2.0</version>
         </dependency>
+        <dependency>
+            <artifactId>tools</artifactId>
+            <groupId>machine_learning</groupId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 </project>
