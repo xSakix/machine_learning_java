@@ -55,7 +55,7 @@ public class SplineFit {
             if (v < x[i + 1])
                 break;
             i++;
-        } while (i + 1 < N);
+        } while (i + 2 < N);
 
         double t = (v - x[i]) / u[i];
 
